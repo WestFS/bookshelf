@@ -1,0 +1,24 @@
+Script started on 2025-03-30 14:35:57-03:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="237" LINES="60"]
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7mssh intra.net -i usuario_privilegiado -l sysadmin[27m
+[A[C[C[C[Cssh intra.net -i usuario_privilegiado -l sysadmin
+[A
+[?2004lLinux linux 6.1.0-32-cloud-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.129-1 (2025-03-06) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Sun Mar 23 19:26:25 2025 from 192.168.98.12
+
+Parabéns, você conseguiu entrar!
+
+Tire print disso para ser enviado como tarefa
+
+Connection to intra.net closed.
+
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clear
+Script done on 2025-03-30 14:36:30-03:00 [COMMAND_EXIT_CODE="0"]

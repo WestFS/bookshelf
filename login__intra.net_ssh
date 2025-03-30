@@ -1,0 +1,16 @@
+Script started on 2025-03-30 14:35:10-03:00 [TERM="xterm-256color" TTY="/dev/pts/8" COLUMNS="237" LINES="60"]
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m chmod 6000 u[K[K[K usuario_privilegiado 
+[?2004l
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7mssh intra.net -i usuario_privilegiado -l <COLOQUE AQUI O USUARIO ENCONTRADO>[27m
+[A[C[C[C[Cssh intra.net -i usuario_privilegiado -l <COLOQUE AQUI O USUARIO ENCONTRADO>
+[A
+[?2004lbash: erro de sintaxe próximo ao token inesperado `newline'
+
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clear
+[?2004l[H[2J[3J
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clearssh intra.net -i usuario_privilegiado -l <COLOQUE AQUI O USUARIO ENCONTRADO>[C[C[C[C[45Pchmod 600 usuario_privilegiado [C[C[C[Cupdog[Kcd senhas/[C[C[C[C[5Pupdogchmod 600 usuario_privilegiado [C[C[C[Cssh intra.net -i usuario_privilegiado -l <COLOQUE AQUI O USUARIO ENCONTRADO>[C[C[C[Cclear[K[K
+Script done on 2025-03-30 14:35:49-03:00 [COMMAND_EXIT_CODE="0"]

