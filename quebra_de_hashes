@@ -1,0 +1,259 @@
+Script started on 2025-03-30 14:46:23-03:00 [TERM="xterm-256color" TTY="/dev/pts/8" COLUMNS="237" LINES="62"]
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m c[7md /tmp/sqlmapvmpsvsc71471/sqlmaphashes-np6zi74z.txt [27m
+[A[C[C[C[C[Cd /tmp/sqlmapvmpsvsc71471/sqlmaphashes-np6zi74z.txt 
+[A
+[?2004lbash: cd: /tmp/sqlmapvmpsvsc71471/sqlmaphashes-np6zi74z.txt: Não é um diretório
+
+[?2004h]0;aluno@atacante: ~[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7md /tmp/sqlmapvmpsvsc71471/sqlmaphashes-np6zi74z.txt [27m
+[A[C[C[C[Ccd /tmp/sqlmapvmpsvsc71471/sqlmaphashes-np6zi74z.txt 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l
+[?2004h]0;aluno@atacante: /tmp/sqlmapvmpsvsc71471[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/tmp/sqlmapvmpsvsc71471[;32m]
+[;32m└─[1;34m$[0m ls
+[?2004lsqlmaphashes-np6zi74z.txt
+
+[?2004h]0;aluno@atacante: /tmp/sqlmapvmpsvsc71471[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/tmp/sqlmapvmpsvsc71471[;32m]
+[;32m└─[1;34m$[0m cp sqlmaphashes-np6zi74z.txt hashes
+[?2004l
+[?2004h]0;aluno@atacante: /tmp/sqlmapvmpsvsc71471[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/tmp/sqlmapvmpsvsc71471[;32m]
+[;32m└─[1;34m$[0m ls
+[?2004lhashes  sqlmaphashes-np6zi74z.txt
+
+[?2004h]0;aluno@atacante: /tmp/sqlmapvmpsvsc71471[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/tmp/sqlmapvmpsvsc71471[;32m]
+[;32m└─[1;34m$[0m [7mhashid -j -m < hashes[27m
+[A[C[C[C[Chashid -j -m < hashes
+[A
+[?2004lAnalyzing '202cb962ac59075b964b07152d234b70'
+[+] MD2 [JtR Format: md2]
+[+] MD5 [Hashcat Mode: 0][JtR Format: raw-md5]
+[+] MD4 [Hashcat Mode: 900][JtR Format: raw-md4]
+[+] Double MD5 [Hashcat Mode: 2600]
+[+] LM [Hashcat Mode: 3000][JtR Format: lm]
+[+] RIPEMD-128 [JtR Format: ripemd-128]
+[+] Haval-128 [JtR Format: haval-128-4]
+[+] Tiger-128 
+[+] Skein-256(128) 
+[+] Skein-512(128) 
+[+] Lotus Notes/Domino 5 [Hashcat Mode: 8600][JtR Format: lotus5]
+[+] Skype [Hashcat Mode: 23]
+[+] Snefru-128 [JtR Format: snefru-128]
+[+] NTLM [Hashcat Mode: 1000][JtR Format: nt]
+[+] Domain Cached Credentials [Hashcat Mode: 1100][JtR Format: mscach]
+[+] Domain Cached Credentials 2 [Hashcat Mode: 2100][JtR Format: mscach2]
+[+] DNSSEC(NSEC3) [Hashcat Mode: 8300]
+[+] RAdmin v2.x [Hashcat Mode: 9900][JtR Format: radmin]
+Analyzing 'e99a18c428cb38d5f260853678922e03'
+[+] MD2 [JtR Format: md2]
+[+] MD5 [Hashcat Mode: 0][JtR Format: raw-md5]
+[+] MD4 [Hashcat Mode: 900][JtR Format: raw-md4]
+[+] Double MD5 [Hashcat Mode: 2600]
+[+] LM [Hashcat Mode: 3000][JtR Format: lm]
+[+] RIPEMD-128 [JtR Format: ripemd-128]
+[+] Haval-128 [JtR Format: haval-128-4]
+[+] Tiger-128 
+[+] Skein-256(128) 
+[+] Skein-512(128) 
+[+] Lotus Notes/Domino 5 [Hashcat Mode: 8600][JtR Format: lotus5]
+[+] Skype [Hashcat Mode: 23]
+[+] Snefru-128 [JtR Format: snefru-128]
+[+] NTLM [Hashcat Mode: 1000][JtR Format: nt]
+[+] Domain Cached Credentials [Hashcat Mode: 1100][JtR Format: mscach]
+[+] Domain Cached Credentials 2 [Hashcat Mode: 2100][JtR Format: mscach2]
+[+] DNSSEC(NSEC3) [Hashcat Mode: 8300]
+[+] RAdmin v2.x [Hashcat Mode: 9900][JtR Format: radmin]
+Analyzing '8d3533d75ae2c3966d7e0d4fcc69216b'
+[+] MD2 [JtR Format: md2]
+[+] MD5 [Hashcat Mode: 0][JtR Format: raw-md5]
+[+] MD4 [Hashcat Mode: 900][JtR Format: raw-md4]
+[+] Double MD5 [Hashcat Mode: 2600]
+[+] LM [Hashcat Mode: 3000][JtR Format: lm]
+[+] RIPEMD-128 [JtR Format: ripemd-128]
+[+] Haval-128 [JtR Format: haval-128-4]
+[+] Tiger-128 
+[+] Skein-256(128) 
+[+] Skein-512(128) 
+[+] Lotus Notes/Domino 5 [Hashcat Mode: 8600][JtR Format: lotus5]
+[+] Skype [Hashcat Mode: 23]
+[+] Snefru-128 [JtR Format: snefru-128]
+[+] NTLM [Hashcat Mode: 1000][JtR Format: nt]
+[+] Domain Cached Credentials [Hashcat Mode: 1100][JtR Format: mscach]
+[+] Domain Cached Credentials 2 [Hashcat Mode: 2100][JtR Format: mscach2]
+[+] DNSSEC(NSEC3) [Hashcat Mode: 8300]
+[+] RAdmin v2.x [Hashcat Mode: 9900][JtR Format: radmin]
+Analyzing '0d107d09f5bbe40cade3de5c71e9e9b7'
+[+] MD2 [JtR Format: md2]
+[+] MD5 [Hashcat Mode: 0][JtR Format: raw-md5]
+[+] MD4 [Hashcat Mode: 900][JtR Format: raw-md4]
+[+] Double MD5 [Hashcat Mode: 2600]
+[+] LM [Hashcat Mode: 3000][JtR Format: lm]
+[+] RIPEMD-128 [JtR Format: ripemd-128]
+[+] Haval-128 [JtR Format: haval-128-4]
+[+] Tiger-128 
+[+] Skein-256(128) 
+[+] Skein-512(128) 
+[+] Lotus Notes/Domino 5 [Hashcat Mode: 8600][JtR Format: lotus5]
+[+] Skype [Hashcat Mode: 23]
+[+] Snefru-128 [JtR Format: snefru-128]
+[+] NTLM [Hashcat Mode: 1000][JtR Format: nt]
+[+] Domain Cached Credentials [Hashcat Mode: 1100][JtR Format: mscach]
+[+] Domain Cached Credentials 2 [Hashcat Mode: 2100][JtR Format: mscach2]
+[+] DNSSEC(NSEC3) [Hashcat Mode: 8300]
+[+] RAdmin v2.x [Hashcat Mode: 9900][JtR Format: radmin]
+Analyzing '5f4dcc3b5aa765d61d8327deb882cf99'
+[+] MD2 [JtR Format: md2]
+[+] MD5 [Hashcat Mode: 0][JtR Format: raw-md5]
+[+] MD4 [Hashcat Mode: 900][JtR Format: raw-md4]
+[+] Double MD5 [Hashcat Mode: 2600]
+[+] LM [Hashcat Mode: 3000][JtR Format: lm]
+[+] RIPEMD-128 [JtR Format: ripemd-128]
+[+] Haval-128 [JtR Format: haval-128-4]
+[+] Tiger-128 
+[+] Skein-256(128) 
+[+] Skein-512(128) 
+[+] Lotus Notes/Domino 5 [Hashcat Mode: 8600][JtR Format: lotus5]
+[+] Skype [Hashcat Mode: 23]
+[+] Snefru-128 [JtR Format: snefru-128]
+[+] NTLM [Hashcat Mode: 1000][JtR Format: nt]
+[+] Domain Cached Credentials [Hashcat Mode: 1100][JtR Format: mscach]
+[+] Domain Cached Credentials 2 [Hashcat Mode: 2100][JtR Format: mscach2]
+[+] DNSSEC(NSEC3) [Hashcat Mode: 8300]
+[+] RAdmin v2.x [Hashcat Mode: 9900][JtR Format: radmin]
+
+[?2004h]0;aluno@atacante: /tmp/sqlmapvmpsvsc71471[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/tmp/sqlmapvmpsvsc71471[;32m]
+[;32m└─[1;34m$[0m [7mnth --file hashes[27m
+[A[C[C[C[Cnth --file hashes
+[A
+[?2004l
+[1;34m  _   _                           _____ _           _          _   _           _     [0m
+[1;34m | \ | |                         |_   _| |         | |        | | | |         | |    [0m
+[1;34m |  \| | __ _ _ __ ___   ___ ______| | | |__   __ _| |_ ______| |_| | __ _ ___| |__  [0m
+[1;34m | . ` |[0m[1;34m/[0m[1;34m _` | [0m[1;34m'_ ` _ \ / _ \______| | | '[0m[1;34m_ \ [0m[1;34m/[0m[1;34m _` | __|______|  _  |[0m[1;34m/[0m[1;34m _` [0m[1;34m/[0m[1;34m __| '_ \ [0m
+[1;34m | |\  | [0m[1;34m([0m[1;34m_| | | | | | |  __/      | | | | | | [0m[1;34m([0m[1;34m_| | |_       | | | | [0m[1;34m([0m[1;34m_| \__ \ | | |[0m
+[1;34m \_| \_/\__,_|_| |_| |_|\___|      \_/ |_| |_|\__,_|\__|      \_| |_/\__,_|___/_| |_|[0m
+
+[1;4;34mhttps://twitter.com/bee_sec_san[0m
+[1;4;34mhttps://github.com/HashPals/Name-That-Hash[0m[1;34m [0m
+    
+
+[1;35m202cb962ac59075b964b07152d234b70[0m
+
+[1;4;38;2;95;95;255mMost Likely[0m 
+[1;38;2;255;95;0mMD5[0m, HC: 0 JtR: raw-md5 [38;2;135;135;215mSummary: Used for Linux Shadow files.[0m
+[1;38;2;255;95;0mMD4[0m, HC: 900 JtR: raw-md4
+[1;38;2;255;95;0mNTLM[0m, HC: 1000 JtR: nt [38;2;135;135;215mSummary: Often used in Windows Active Directory.[0m
+[1;38;2;255;95;0mDomain Cached Credentials[0m, HC: 1100 JtR: mscach
+
+[1;4;38;2;95;95;255mLeast Likely[0m
+[1;38;2;255;95;0mDomain Cached Credentials 2[0m, HC: 2100 JtR: mscach2 [1;38;2;255;95;0mDouble MD5[0m, HC: 2600  [1;38;2;255;95;0mTiger-128[0m,  [1;38;2;255;95;0mSkein-256(128)[0m,  [1;38;2;255;95;0mSkein-512(128)[0m,  [1;38;2;255;95;0mLotus Notes/Domino 5[0m, HC: 8600 JtR: lotus5 [1;38;2;255;95;0mmd5(md5(md5($pass)))[0m, HC: 3500 [38;2;135;135;215mSummary: Hashcat mode is only supported in [0m
+[38;2;135;135;215mhashcat-legacy.[0m [1;38;2;255;95;0mmd5(uppercase(md5($pass)))[0m, HC: 4300  [1;38;2;255;95;0mmd5(sha1($pass))[0m, HC: 4400  [1;38;2;255;95;0mmd5(utf16($pass))[0m, JtR: dynamic_29 [1;38;2;255;95;0mmd4(utf16($pass))[0m, JtR: dynamic_33 [1;38;2;255;95;0mmd5(md4($pass))[0m, JtR: dynamic_34 [1;38;2;255;95;0mHaval-128[0m, JtR: haval-128-4 [1;38;2;255;95;0mRIPEMD-128[0m, JtR: 
+ripemd-128 [1;38;2;255;95;0mMD2[0m, JtR: md2 [1;38;2;255;95;0mSnefru-128[0m, JtR: snefru-128 [1;38;2;255;95;0mDNSSEC(NSEC3)[0m, HC: 8300  [1;38;2;255;95;0mRAdmin v2.x[0m, HC: 9900 JtR: radmin [1;38;2;255;95;0mCisco Type 7[0m,  [1;38;2;255;95;0mBigCrypt[0m, JtR: bigcrypt 
+
+[1;35me99a18c428cb38d5f260853678922e03[0m
+
+[1;4;38;2;95;95;255mMost Likely[0m 
+[1;38;2;255;95;0mMD5[0m, HC: 0 JtR: raw-md5 [38;2;135;135;215mSummary: Used for Linux Shadow files.[0m
+[1;38;2;255;95;0mMD4[0m, HC: 900 JtR: raw-md4
+[1;38;2;255;95;0mNTLM[0m, HC: 1000 JtR: nt [38;2;135;135;215mSummary: Often used in Windows Active Directory.[0m
+[1;38;2;255;95;0mDomain Cached Credentials[0m, HC: 1100 JtR: mscach
+
+[1;4;38;2;95;95;255mLeast Likely[0m
+[1;38;2;255;95;0mDomain Cached Credentials 2[0m, HC: 2100 JtR: mscach2 [1;38;2;255;95;0mDouble MD5[0m, HC: 2600  [1;38;2;255;95;0mTiger-128[0m,  [1;38;2;255;95;0mSkein-256(128)[0m,  [1;38;2;255;95;0mSkein-512(128)[0m,  [1;38;2;255;95;0mLotus Notes/Domino 5[0m, HC: 8600 JtR: lotus5 [1;38;2;255;95;0mmd5(md5(md5($pass)))[0m, HC: 3500 [38;2;135;135;215mSummary: Hashcat mode is only supported in [0m
+[38;2;135;135;215mhashcat-legacy.[0m [1;38;2;255;95;0mmd5(uppercase(md5($pass)))[0m, HC: 4300  [1;38;2;255;95;0mmd5(sha1($pass))[0m, HC: 4400  [1;38;2;255;95;0mmd5(utf16($pass))[0m, JtR: dynamic_29 [1;38;2;255;95;0mmd4(utf16($pass))[0m, JtR: dynamic_33 [1;38;2;255;95;0mmd5(md4($pass))[0m, JtR: dynamic_34 [1;38;2;255;95;0mHaval-128[0m, JtR: haval-128-4 [1;38;2;255;95;0mRIPEMD-128[0m, JtR: 
+ripemd-128 [1;38;2;255;95;0mMD2[0m, JtR: md2 [1;38;2;255;95;0mSnefru-128[0m, JtR: snefru-128 [1;38;2;255;95;0mDNSSEC(NSEC3)[0m, HC: 8300  [1;38;2;255;95;0mRAdmin v2.x[0m, HC: 9900 JtR: radmin [1;38;2;255;95;0mCisco Type 7[0m,  [1;38;2;255;95;0mBigCrypt[0m, JtR: bigcrypt 
+
+[1;35m8d3533d75ae2c3966d7e0d4fcc69216b[0m
+
+[1;4;38;2;95;95;255mMost Likely[0m 
+[1;38;2;255;95;0mMD5[0m, HC: 0 JtR: raw-md5 [38;2;135;135;215mSummary: Used for Linux Shadow files.[0m
+[1;38;2;255;95;0mMD4[0m, HC: 900 JtR: raw-md4
+[1;38;2;255;95;0mNTLM[0m, HC: 1000 JtR: nt [38;2;135;135;215mSummary: Often used in Windows Active Directory.[0m
+[1;38;2;255;95;0mDomain Cached Credentials[0m, HC: 1100 JtR: mscach
+
+[1;4;38;2;95;95;255mLeast Likely[0m
+[1;38;2;255;95;0mDomain Cached Credentials 2[0m, HC: 2100 JtR: mscach2 [1;38;2;255;95;0mDouble MD5[0m, HC: 2600  [1;38;2;255;95;0mTiger-128[0m,  [1;38;2;255;95;0mSkein-256(128)[0m,  [1;38;2;255;95;0mSkein-512(128)[0m,  [1;38;2;255;95;0mLotus Notes/Domino 5[0m, HC: 8600 JtR: lotus5 [1;38;2;255;95;0mmd5(md5(md5($pass)))[0m, HC: 3500 [38;2;135;135;215mSummary: Hashcat mode is only supported in [0m
+[38;2;135;135;215mhashcat-legacy.[0m [1;38;2;255;95;0mmd5(uppercase(md5($pass)))[0m, HC: 4300  [1;38;2;255;95;0mmd5(sha1($pass))[0m, HC: 4400  [1;38;2;255;95;0mmd5(utf16($pass))[0m, JtR: dynamic_29 [1;38;2;255;95;0mmd4(utf16($pass))[0m, JtR: dynamic_33 [1;38;2;255;95;0mmd5(md4($pass))[0m, JtR: dynamic_34 [1;38;2;255;95;0mHaval-128[0m, JtR: haval-128-4 [1;38;2;255;95;0mRIPEMD-128[0m, JtR: 
+ripemd-128 [1;38;2;255;95;0mMD2[0m, JtR: md2 [1;38;2;255;95;0mSnefru-128[0m, JtR: snefru-128 [1;38;2;255;95;0mDNSSEC(NSEC3)[0m, HC: 8300  [1;38;2;255;95;0mRAdmin v2.x[0m, HC: 9900 JtR: radmin [1;38;2;255;95;0mCisco Type 7[0m,  [1;38;2;255;95;0mBigCrypt[0m, JtR: bigcrypt 
+
+[1;35m0d107d09f5bbe40cade3de5c71e9e9b7[0m
+
+[1;4;38;2;95;95;255mMost Likely[0m 
+[1;38;2;255;95;0mMD5[0m, HC: 0 JtR: raw-md5 [38;2;135;135;215mSummary: Used for Linux Shadow files.[0m
+[1;38;2;255;95;0mMD4[0m, HC: 900 JtR: raw-md4
+[1;38;2;255;95;0mNTLM[0m, HC: 1000 JtR: nt [38;2;135;135;215mSummary: Often used in Windows Active Directory.[0m
+[1;38;2;255;95;0mDomain Cached Credentials[0m, HC: 1100 JtR: mscach
+
+[1;4;38;2;95;95;255mLeast Likely[0m
+[1;38;2;255;95;0mDomain Cached Credentials 2[0m, HC: 2100 JtR: mscach2 [1;38;2;255;95;0mDouble MD5[0m, HC: 2600  [1;38;2;255;95;0mTiger-128[0m,  [1;38;2;255;95;0mSkein-256(128)[0m,  [1;38;2;255;95;0mSkein-512(128)[0m,  [1;38;2;255;95;0mLotus Notes/Domino 5[0m, HC: 8600 JtR: lotus5 [1;38;2;255;95;0mmd5(md5(md5($pass)))[0m, HC: 3500 [38;2;135;135;215mSummary: Hashcat mode is only supported in [0m
+[38;2;135;135;215mhashcat-legacy.[0m [1;38;2;255;95;0mmd5(uppercase(md5($pass)))[0m, HC: 4300  [1;38;2;255;95;0mmd5(sha1($pass))[0m, HC: 4400  [1;38;2;255;95;0mmd5(utf16($pass))[0m, JtR: dynamic_29 [1;38;2;255;95;0mmd4(utf16($pass))[0m, JtR: dynamic_33 [1;38;2;255;95;0mmd5(md4($pass))[0m, JtR: dynamic_34 [1;38;2;255;95;0mHaval-128[0m, JtR: haval-128-4 [1;38;2;255;95;0mRIPEMD-128[0m, JtR: 
+ripemd-128 [1;38;2;255;95;0mMD2[0m, JtR: md2 [1;38;2;255;95;0mSnefru-128[0m, JtR: snefru-128 [1;38;2;255;95;0mDNSSEC(NSEC3)[0m, HC: 8300  [1;38;2;255;95;0mRAdmin v2.x[0m, HC: 9900 JtR: radmin [1;38;2;255;95;0mCisco Type 7[0m,  [1;38;2;255;95;0mBigCrypt[0m, JtR: bigcrypt 
+
+[1;35m5f4dcc3b5aa765d61d8327deb882cf99[0m
+
+[1;4;38;2;95;95;255mMost Likely[0m 
+[1;38;2;255;95;0mMD5[0m, HC: 0 JtR: raw-md5 [38;2;135;135;215mSummary: Used for Linux Shadow files.[0m
+[1;38;2;255;95;0mMD4[0m, HC: 900 JtR: raw-md4
+[1;38;2;255;95;0mNTLM[0m, HC: 1000 JtR: nt [38;2;135;135;215mSummary: Often used in Windows Active Directory.[0m
+[1;38;2;255;95;0mDomain Cached Credentials[0m, HC: 1100 JtR: mscach
+
+[1;4;38;2;95;95;255mLeast Likely[0m
+[1;38;2;255;95;0mDomain Cached Credentials 2[0m, HC: 2100 JtR: mscach2 [1;38;2;255;95;0mDouble MD5[0m, HC: 2600  [1;38;2;255;95;0mTiger-128[0m,  [1;38;2;255;95;0mSkein-256(128)[0m,  [1;38;2;255;95;0mSkein-512(128)[0m,  [1;38;2;255;95;0mLotus Notes/Domino 5[0m, HC: 8600 JtR: lotus5 [1;38;2;255;95;0mmd5(md5(md5($pass)))[0m, HC: 3500 [38;2;135;135;215mSummary: Hashcat mode is only supported in [0m
+[38;2;135;135;215mhashcat-legacy.[0m [1;38;2;255;95;0mmd5(uppercase(md5($pass)))[0m, HC: 4300  [1;38;2;255;95;0mmd5(sha1($pass))[0m, HC: 4400  [1;38;2;255;95;0mmd5(utf16($pass))[0m, JtR: dynamic_29 [1;38;2;255;95;0mmd4(utf16($pass))[0m, JtR: dynamic_33 [1;38;2;255;95;0mmd5(md4($pass))[0m, JtR: dynamic_34 [1;38;2;255;95;0mHaval-128[0m, JtR: haval-128-4 [1;38;2;255;95;0mRIPEMD-128[0m, JtR: 
+ripemd-128 [1;38;2;255;95;0mMD2[0m, JtR: md2 [1;38;2;255;95;0mSnefru-128[0m, JtR: snefru-128 [1;38;2;255;95;0mDNSSEC(NSEC3)[0m, HC: 8300  [1;38;2;255;95;0mRAdmin v2.x[0m, HC: 9900 JtR: radmin [1;38;2;255;95;0mCisco Type 7[0m,  [1;38;2;255;95;0mBigCrypt[0m, JtR: bigcrypt 
+
+[?2004h]0;aluno@atacante: /tmp/sqlmapvmpsvsc71471[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/tmp/sqlmapvmpsvsc71471[;32m]
+[;32m└─[1;34m$[0m [7mjohn --format=raw-md5 hashes[27m
+[A[C[C[C[Cjohn --format=raw-md5 hashes
+[7mjohn --format=raw-md5 hashes[27m
+[Ajohn --format=raw-md5 hashes
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[A[C[C[C[C[11Pnth --file
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjohn --format=raw-md5 hashes
+john --format=raw-md5 h[A[C[C[C[C[11Pnth --file
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mjohn --format=raw-md5 hashes[27m
+[A[C[C[C[Cjohn --format=raw-md5 hashes
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclear[K[K[K[K[K[7mjohn --format=raw-md5 hashes[27m
+[A[C[C[C[Cjohn --format=raw-md5 hashes
+[A
+[?2004lUsing default input encoding: UTF-8
+Loaded 5 password hashes with no different salts (Raw-MD5 [MD5 256/256 AVX2 8x3])
+Warning: no OpenMP support for this hash type, consider --fork=2
+Proceeding with single, rules:Single
+Press 'q' or Ctrl-C to abort, almost any other key for status
+Almost done: Processing the remaining buffered candidate passwords, if any.
+Proceeding with wordlist:/usr/share/john/password.lst
+[0;33mpassword[0m         ([0;33m?[0m[0m)     
+[0;33mabc123[0m           ([0;33m?[0m[0m)     
+[0;33m123[0m              ([0;33m?[0m[0m)     
+[0;33mletmein[0m          ([0;33m?[0m[0m)     
+Proceeding with incremental:ASCII
+[0;33mcharley[0m          ([0;33m?[0m[0m)     
+5g 0:00:00:00 DONE 3/3 (2025-03-30 14:50) 7.936g/s 283095p/s 283095c/s 285533C/s stevy13..candake
+Use the "--show --format=Raw-MD5" options to display all of the cracked passwords reliably
+Session completed. 
+
+[?2004h]0;aluno@atacante: /tmp/sqlmapvmpsvsc71471[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/tmp/sqlmapvmpsvsc71471[;32m]
+[;32m└─[1;34m$[0m cd /usr/share/john/
+[?2004l
+[?2004h]0;aluno@atacante: /usr/share/john[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/usr/share/john[;32m]
+[;32m└─[1;34m$[0m ls
+[?2004l[0m[01;32m1password2john.py[0m      ascii.chr            [01;32mdeepsound2john.py[0m              [01;32menpass2john.py[0m         [01;32miwork2john.py[0m        [01;34mlib[0m                  [01;32mmozilla2john.py[0m           [01;32mpgpsda2john.py[0m        [01;34mrules[0m               [01;32mtruecrypt2john.py[0m
+[01;32m7z2john.pl[0m             [01;32matmail2john.pl[0m       dictionary.rfc2865             [01;32menpass5tojohn.py[0m       john.conf            [01;32mlibreoffice2john.py[0m  [01;32mmultibit2john.py[0m          [01;32mpgpwde2john.py[0m        [01;32mrulestack.pl[0m        unisubst.conf
+[01;32madxcsouf2john.py[0m       [01;32maxcrypt2john.py[0m      digits.chr                     [01;32methereum2john.py[0m       [01;32mkdcdump2john.py[0m      [01;32mlion2john-alt.pl[0m     [01;32mneo2john.py[0m               pkcs12kdf.py          [01;32msap2john.pl[0m         [01;32munrule.pl[0m
+[01;32maem2john.py[0m            [01;32mbestcrypt2john.py[0m    [01;32mdiskcryptor2john.py[0m            [01;32mfilezilla2john.py[0m      [01;32mkeychain2john.py[0m     [01;32mlion2john.pl[0m         [01;32mnetntlm.pl[0m                [01;32mpotcheck.pl[0m           [01;32msense2john.py[0m       upper.chr
+[01;32maix2john.pl[0m            bestcryptve2john.py  [01;32mdmg2john.py[0m                    fuzz.dic               [01;32mkeyring2john.py[0m      lm_ascii.chr         [01;32mnetscreen.py[0m              [01;32mprosody2john.py[0m       [01;32msha-dump.pl[0m         uppernum.chr
+[01;32maix2john.py[0m            [01;32mbitcoin2john.py[0m      [01;34mdns[0m                            [01;32mfuzz_option.pl[0m         [01;32mkeystore2john.py[0m     [01;32mlotus2john.py[0m        [01;32moffice2john.py[0m            [01;32mpse2john.py[0m           [01;32msha-test.pl[0m         utf8.chr
+alnum.chr              [01;32mbitshares2john.py[0m    [01;32mDPAPImk2john.py[0m                [01;32mgeli2john.py[0m           [01;32mkirbi2john.py[0m        lower.chr            [01;32mopenbsd_softraid2john.py[0m  [01;32mps_token2john.py[0m      [01;32msignal2john.py[0m      [01;32mvdi2john.pl[0m
+alnumspace.chr         [01;32mbitwarden2john.py[0m    dumb16.conf                    [01;32mgenincstats.rb[0m         [01;32mknown_hosts2john.py[0m  lowernum.chr         [01;32mopenssl2john.py[0m           [01;32mpwsafe2john.py[0m        [01;32msipdump2john.py[0m     [01;32mvmx2john.py[0m
+alpha.chr              [01;32mbks2john.py[0m          dumb32.conf                    [01;32mhccapx2john.py[0m         korelogic.conf       lowerspace.chr       [01;32mpadlock2john.py[0m           [01;34m__pycache__[0m           [01;32mssh2john.py[0m         [01;32mzed2john.py[0m
+[01;32mandotp2john.py[0m         [01;32mblockchain2john.py[0m   dynamic.conf                   [01;32mhextoraw.pl[0m            [01;32mkrb2john.py[0m          [01;32mluks2john.py[0m         [01;32mpass_gen.pl[0m               [01;32mradius2john.pl[0m        [01;32msspr2john.py[0m        [01;34mztex[0m
+[01;32mandroidbackup2john.py[0m  [01;32mccache2john.py[0m       dynamic_disabled.conf          [01;32mhtdigest2john.py[0m       [01;32mkwallet2john.py[0m      [01;32mmac2john-alt.py[0m      password.lst              [01;32mradius2john.py[0m        [01;32mstaroffice2john.py[0m
+[01;32mandroidfde2john.py[0m     [01;32mcisco2john.pl[0m        dynamic_flat_sse_formats.conf  hybrid.conf            lanman.chr           [01;32mmac2john.py[0m          [01;32mpcap2john.py[0m              regex_alphabets.conf  stats
+[01;32mansible2john.py[0m        [01;32mcodepage.pl[0m          [01;32mecryptfs2john.py[0m               [01;32mibmiscanner2john.py[0m    [01;32mlastpass2john.py[0m     [01;32mmcafee_epo2john.py[0m   [01;32mpdf2john.pl[0m               repeats16.conf        [01;32mstrip2john.py[0m
+[01;32mapex2john.py[0m           [01;32mcracf2john.py[0m        [01;32mejabberd2john.py[0m               [01;32mikescan2john.py[0m        latin1.chr           [01;32mmonero2john.py[0m       [01;32mpem2john.py[0m               repeats32.conf        [01;32mtelegram2john.py[0m
+[01;32mapplenotes2john.py[0m     [01;32mcronjob[0m              [01;32melectrum2john.py[0m               [01;32mios7tojohn.pl[0m          [01;32mldif2john.pl[0m         [01;32mmoney2john.py[0m        [01;32mpfx2john.py[0m               [01;32mrestic2john.py[0m        test_tezos2john.py
+[01;32maruba2john.py[0m          [01;32mdashlane2john.py[0m     [01;32mencfs2john.py[0m                  [01;32mitunes_backup2john.pl[0m  [01;32mleet.pl[0m              [01;32mmosquitto2john.py[0m    [01;32mpgpdisk2john.py[0m           [01;32mrexgen2rules.pl[0m       [01;32mtezos2john.py[0m
+
+[?2004h]0;aluno@atacante: /usr/share/john[;32m┌──([1;34maluno㉿atacante[;32m)-[[0;1m/usr/share/john[;32m]
+[;32m└─[1;34m$[0m 
+Script done on 2025-03-30 14:51:17-03:00 [COMMAND_EXIT_CODE="0"]
