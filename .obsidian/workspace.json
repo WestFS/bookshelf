@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "c6156d45f7a2dbf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ddc4e836f4d7ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef1517545457b9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BookShelf/DATA STRUCTURE/Selection sort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selection sort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f96169ad6e4327ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "3354dc0f72a70c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c965c0852e04b337",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54116bd17c546d37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "99f201c5df28e213",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "86bd0e578a252dcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f92541a23a71a45e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d0d80bb42b125d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BACKEND/Primitive Data Types and Variables.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Primitive Data Types and Variables"
+            }
+          },
+          {
+            "id": "39ed8d997f0c7003",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BACKEND/Primitive Data Types and Variables.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Primitive Data Types and Variables"
+            }
+          },
+          {
+            "id": "269657a61ec86909",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "791ff78240bf49b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BookShelf/DATA STRUCTURE/Selection sort.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Selection sort"
+            }
+          },
+          {
+            "id": "6e9bbe710a06ead6",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "auto",
+                "language_to": "en",
+                "translation_service": "deepl",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "deepl",
+              "title": "DeepL"
+            }
+          },
+          {
+            "id": "aef174fde754e5cb",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "auto",
+                "language_to": "en",
+                "translation_service": "deepl",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "deepl",
+              "title": "DeepL"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "translate:Open translation view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ef1517545457b9f5",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "BookShelf/DATA STRUCTURE/Selection sort.md",
+    "BookShelf/React Native/Componentes nativos do React Native.md",
+    "Excalidraw/Drawing 2025-05-13 21.58.15.excalidraw.md",
+    "BookShelf/JavaScript/Arrays and Objects.md",
+    "Java Script/Untitled.md",
+    "BookShelf/JavaScript/Variables.md",
+    "BookShelf/JavaScript",
+    "Pasted image 20250504211519.png",
+    "BookShelf/DATA STRUCTURE/Introduction in Algorithm.md",
+    "BookShelf/React Native",
+    "Excalidraw/Drawing 2025-05-01 19.38.54.excalidraw.md",
+    "2025-05-01.md",
+    "Excalidraw/Drawing 2025-05-01 19.38.03.excalidraw.md",
+    "Excalidraw",
+    "BookShelf/imgs",
+    "BookShelf/BACKEND/Beginner Developer.md",
+    "BookShelf",
+    "BACKEND/Untitled.md",
+    "BookShelf/imgs/LinearSearch CODE.png",
+    "BookShelf/imgs/BinarySearch RESULT.png",
+    "BookShelf/imgs/BinarySearch CODE.png",
+    "BookShelf/imgs/BinarySearch IMG.png",
+    "BookShelf/imgs/LinearSearch IMG.png",
+    "Pasted image 20250501191121.png",
+    "Pasted image 20250501191028.png",
+    "Pasted image 20250501182959.png",
+    "BookShelf/DATA STRUCTURE",
+    "BookShelf/BACKEND/Conditional Statements If Else and Else If.md",
+    "BookShelf/BACKEND/Primitive Data Types and Variables.md",
+    "BookShelf/BACKEND/Defining Methods and Returning Values.md",
+    "BookShelf/BACKEND/JAVA.md",
+    "Excalidraw/Drawing 2025-01-23 21.00.59.excalidraw.md",
+    "BookShelf/BACKEND/Exceptions in Java.md",
+    "Pasted image 20250122001638.png",
+    "[[Defining.md",
+    "Defining.md",
+    "While.md",
+    "[Conditional.md",
+    "[[Conditional.md",
+    "Conditional.md",
+    "().md",
+    "BookShelf/BACKEND"
+  ]
+}
