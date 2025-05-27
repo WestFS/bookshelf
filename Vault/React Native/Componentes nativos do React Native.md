@@ -1,3 +1,4 @@
+# Componentes nativos do React Native
 > [!NOTE]  
 > ## O que são "componentes nativos"?
 > Componente é uma parte **reutilizável** e **independente** da interface de uma aplicação. No **React Native**, a aplicação é dividida em vários componentes, onde cada um representa uma parte específica da interface — como botões, textos, formulários, imagens, etc.

@@ -1,7 +1,7 @@
 ---
 
 ---
-#### **Primitive Types and Variables**
+## **Primitive Types and Variables**
 - Numeric types: Double, Float, Integer, etc.
 - Basics of primitive types: `int`, `float`, `double`
 - Data type String

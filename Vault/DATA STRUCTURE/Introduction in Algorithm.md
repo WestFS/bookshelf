@@ -1,3 +1,4 @@
+# Introduction in Algorithm
 > An algorithm is a set of instructions that a computer executes to perform a specific task
 
 In data structures, there are many types of structures. In this topic, we’ll talk about **Binary Search** and **Simple (or Linear) Search**. In these cases, their respective time complexities are **O(log n)** for Binary Search and **O(n)** for Simple Search.

@@ -1,3 +1,4 @@
+# Principais modelos de navegação no ReactNative
 Em aplicações React Native, a navegação entre telas é essencial. Os principais termos e elementos relacionados à navegação são:
 
 - **Pages (Páginas)**: Tela inicial, página home.
