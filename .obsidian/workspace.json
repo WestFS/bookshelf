@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/React Native/Persistência de Dados Com React Native.md",
+                "file": "Vault/React Native/Persistência no modelo relacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Persistência de Dados Com React Native"
+              "title": "Persistência no modelo relacional"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.5
   },
   "right": {
     "id": "86bd0e578a252dcc",
@@ -94,46 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACKEND/Primitive Data Types and Variables.md",
+                "file": "Vault/React Native/Persistência no modelo relacional.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Primitive Data Types and Variables"
-            }
-          },
-          {
-            "id": "39ed8d997f0c7003",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "BACKEND/Primitive Data Types and Variables.md",
-                "linksCollapsed": true,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Primitive Data Types and Variables"
-            }
-          },
-          {
-            "id": "269657a61ec86909",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Persistência no modelo relacional"
             }
           },
           {
@@ -142,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/React Native/Persistência de Dados Com React Native.md",
+                "file": "Vault/React Native/Persistência no modelo relacional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Persistência de Dados Com React Native"
+              "title": "Outline of Persistência no modelo relacional"
             }
           },
           {
@@ -185,7 +156,7 @@
             }
           },
           {
-            "id": "aae3da665ef2af2a",
+            "id": "0e0a839dd69fecac",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -216,22 +187,26 @@
   },
   "active": "bbe27b476b859f44",
   "lastOpenFiles": [
+    "Vault/JavaScript/Promise in JavaScript.md",
+    "Vault/BACKEND/Java Developer - Study Roadmap.md",
+    "Pesquisar por TUI (TERMINAL USER INTERFACE).md",
+    "Vault/BACKEND/Backend Developer - Notes Index.md",
+    "Atividade Docker.md",
+    "Vault/React Native/Persistência no modelo relacional.md",
+    "Vault/React Native/Persistência de Dados Com React Native.md",
+    "Vault/JavaScript/Variables.md",
+    "Untitled.canvas",
     "Vault/imgs/Drawer Navigation.png",
     "Vault/imgs/Serialization.png",
     "Vault/imgs/SectionList.png",
-    "Vault/React Native/Persistência de Dados Com React Native.md",
     "README.md",
-    "Atividade Docker.md",
     "LICENSE.md",
-    "Pesquisar por TUI (TERMINAL USER INTERFACE).md",
     "Vault/React Native/Animações em React Native.md",
     "Vault/Vault Map.md",
     "Vault/BACKEND/Primitive Data Types and Variables.md",
-    "Vault/BACKEND/JAVA.md",
     "Vault/BACKEND/Exceptions in Java.md",
     "Vault/BACKEND/Defining Methods and Returning Values.md",
     "Vault/BACKEND/Conditional Statements If Else and Else If.md",
-    "Vault/BACKEND/Backend Developer - Notes Index.md",
     "Vault/DATA STRUCTURE/Introduction in Algorithm.md",
     "Vault/React Native/React Native - Notes Index.md",
     "Vault/React Native/Componentes nativos do React Native.md",
@@ -241,15 +216,12 @@
     "Vault/React Native/Default Structure React Native.md",
     "Vault/React Native/Estilizando aplicativos em React Native.md",
     "Vault/JavaScript/Arrays and Objects.md",
-    "Vault/JavaScript/Variables.md",
     "Stack Navigation.md",
     "Pasted image 20250525160054.png",
     "Vault/imgs/Button-ReactNative.png",
     "Vault/imgs/LinearSearch IMG.png",
     "Vault/imgs/BinarySearch CODE.png",
-    "Excalidraw/Drawing 2025-05-17 11.03.16.excalidraw.md",
     "Excalidraw",
-    "Untitled.canvas",
     "BookShelf/JavaScript",
     "Pasted image 20250504211519.png",
     "BookShelf/React Native",
