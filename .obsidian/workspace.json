@@ -11,10 +11,15 @@
             "id": "bbe27b476b859f44",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Vault/React Native/Persistência no modelo NoSQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Persistência no modelo NoSQL"
             }
           }
         ]
@@ -90,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/React Native/Persistência no modelo relacional.md",
+                "file": "Vault/React Native/Persistência no modelo NoSQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Persistência no modelo relacional"
+              "title": "Backlinks for Persistência no modelo NoSQL"
             }
           },
           {
@@ -109,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Vault/React Native/Persistência no modelo NoSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Persistência no modelo NoSQL"
             }
           },
           {
@@ -166,11 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/React Native/Persistência no modelo NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Persistência no modelo NoSQL"
             }
           },
           {
@@ -208,8 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbe27b476b859f44",
+  "active": "0e0a839dd69fecac",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Vault/React Native/Persistência no modelo NoSQL.md",
+    "Vault/BACKEND/Conditional Statements If Else and Else If.md",
     "Vault/React Native/Realm Database – Conceito e Estrutura.md",
     "Vault/React Native/React Native +  TypeScript - Best Practices for Storage and Project Organization.md",
     "Vault/React Native/Persistência de Dados Com React Native.md",
@@ -231,15 +241,12 @@
     "Vault/BACKEND/Primitive Data Types and Variables.md",
     "Vault/BACKEND/Exceptions in Java.md",
     "Vault/BACKEND/Defining Methods and Returning Values.md",
-    "Vault/BACKEND/Conditional Statements If Else and Else If.md",
     "Vault/DATA STRUCTURE/Introduction in Algorithm.md",
     "Vault/React Native/React Native - Notes Index.md",
     "Vault/React Native/Componentes nativos do React Native.md",
     "Vault/React Native/Interface Gráfica Com React Native.md",
     "Vault/React Native/Componentes Nativos de Listas no React Native.md",
     "Vault/React Native/Principais modelos de navegação no ReactNative.md",
-    "Vault/React Native/Estilizando aplicativos em React Native.md",
-    "Vault/JavaScript/Arrays and Objects.md",
     "Pasted image 20250525160054.png",
     "Vault/imgs/Button-ReactNative.png",
     "Vault/imgs/LinearSearch IMG.png",
