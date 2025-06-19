@@ -1,3 +1,4 @@
+#tag: PT/React Native
 # Estilização no React Native
 
 A estilização de aplicativos em React Native segue os mesmos princípios utilizados em páginas web. No entanto, enquanto na web utilizamos **CSS**, no React Native utilizamos **JavaScript** através da propriedade `style`.

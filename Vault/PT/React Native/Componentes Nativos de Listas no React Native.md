@@ -1,3 +1,4 @@
+#tag: PT/React Native
 # Componentes Nativos de Listas no React Native
 O React Native oferece três componentes principais para renderização  de listas:
 
@@ -279,7 +280,7 @@ export default App;
 
 ```
 
-![[SectionList.png]]
+![](../../../images/SectionList.png)
 
 
 ##  Atributos Fundamentais do `SectionList`

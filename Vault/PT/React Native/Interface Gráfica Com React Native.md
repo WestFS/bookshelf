@@ -1,3 +1,4 @@
+#tag: PT/React Native
 # Interface Gráfica Com React Native
 	ScrollView
 	SafeAreaView
@@ -80,7 +81,7 @@ Sao um dos componentes nativos do React Natives alguns dos seguintes comandos
 
 > A principal característica do Button é reagir a eventos de interação por parte do usuário, como o toque, leve ou demorado, sobre eles.
 
-![[Button-ReactNative.png]]
+![](../../../imgs/Button-ReactNative.png)
 
 E recomendando pela documentacao do React Native a utiliza;'ao de componentes pressable em vez de componentes legados como 
 

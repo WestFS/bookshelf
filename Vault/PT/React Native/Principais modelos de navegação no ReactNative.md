@@ -1,3 +1,4 @@
+#tag: PT/React Native
 # Principais modelos de navegação no ReactNative
 Em aplicações React Native, a navegação entre telas é essencial. Os principais termos e elementos relacionados à navegação são:
 
@@ -101,7 +102,7 @@ Como mencionado anteriormente os props de:
 	navigation.navigate('About')
     navigation.navigate('Home')
 - Histórico
-	navigation.push(‘Home’)
+	navigation.push('Home')
 
 
 ---
@@ -199,7 +200,7 @@ O **Drawer Navigator** oferece um **menu lateral oculto** que pode ser aberto de
 | Integração com Stack e Tab     | Pode ser usado junto com outras navegações para apps mais completos     |
 | Familiaridade com apps Android | Muito comum em apps Android, o que melhora a experiência do usuário     |
 
-![[Drawer Navigation.png]]
+![](../../../imgs/Drawer Navigation.png)
 
 ### Exemplo de uso básico
 ```tsx

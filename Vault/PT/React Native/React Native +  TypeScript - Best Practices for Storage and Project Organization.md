@@ -1,4 +1,6 @@
-### 🔸 **1. Armazenamento Local (no próprio dispositivo)**
+#tag: PT/React Native
+
+### �� **1. Armazenamento Local (no próprio dispositivo)**
 
 #### 📦 **AsyncStorage / MMKV (React Native)**
 
@@ -277,7 +279,7 @@ features/
     - Rotas (`routes.ts`)
         
     
-    ➕ Evita “magic strings” e centraliza configurações.
+    ➕ Evita "magic strings" e centraliza configurações.
     
 
 ---

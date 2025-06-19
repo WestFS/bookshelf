@@ -1,3 +1,4 @@
+#tag: PT/React Native
 # Componentes nativos do React Native
 > [!NOTE]  
 > ## O que são "componentes nativos"?

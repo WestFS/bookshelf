@@ -1,3 +1,4 @@
+#tag: PT/React Native
 ## Animações em React Native
 Em React Native, estão disponíveis dois recursos nativos para a animação de objetos: a **Animated API** e a **LayoutAnimation API**. Com os recursos disponibilizados por ambas, é possível:
 
